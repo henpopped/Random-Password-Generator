@@ -1,5 +1,10 @@
 # Random-Password-Generator
 A react web application that dynamically generates random passwords based on filters.
+
+# Tool Showcase
+
+![Generating a Random Password](https://i.imgur.com/yVHCXeS.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
